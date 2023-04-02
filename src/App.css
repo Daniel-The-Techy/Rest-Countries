@@ -1,0 +1,28 @@
+body{
+  background-color:#f8faf7;
+}
+.darkmode{
+  background-color:hsl(207, 26%, 17%) ;
+  color: hsl(0, 0%, 100%); ;
+}
+
+ion-icon{
+  font-size: 1rem;
+
+  top: 75rem;
+  left: 75rem
+}
+
+input {
+  padding-left: 2.5rem;
+}
+input::placeholder{
+  padding-left: 16px;
+}
+.btn-icon{
+  font-size: 1rem;
+  color: #333;
+  top: 75rem;
+  left: 75rem
+}
+
